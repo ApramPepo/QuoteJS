@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background: linear-gradient(90deg, #53C4ED, #57C785, #53C4ED);
-}
-
 .container {
     background: #fff;
     width: 700px;
